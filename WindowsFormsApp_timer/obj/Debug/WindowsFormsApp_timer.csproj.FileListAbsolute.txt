@@ -1,0 +1,14 @@
+C:\Alla\C#_proj\WindowsFormsApp_timer\bin\Debug\WindowsFormsApp_timer.exe.config
+C:\Alla\C#_proj\WindowsFormsApp_timer\bin\Debug\WindowsFormsApp_timer.exe
+C:\Alla\C#_proj\WindowsFormsApp_timer\bin\Debug\WindowsFormsApp_timer.pdb
+C:\Alla\C#_proj\WindowsFormsApp_timer\obj\Debug\WindowsFormsApp_timer.csproj.AssemblyReference.cache
+C:\Alla\C#_proj\WindowsFormsApp_timer\obj\Debug\WindowsFormsApp_timer.csproj.SuggestedBindingRedirects.cache
+C:\Alla\C#_proj\WindowsFormsApp_timer\obj\Debug\WindowsFormsApp_timer.Form1.resources
+C:\Alla\C#_proj\WindowsFormsApp_timer\obj\Debug\WindowsFormsApp_timer.Properties.Resources.resources
+C:\Alla\C#_proj\WindowsFormsApp_timer\obj\Debug\WindowsFormsApp_timer.Resource1.resources
+C:\Alla\C#_proj\WindowsFormsApp_timer\obj\Debug\WindowsFormsApp_timer.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WindowsFormsApp_timer\obj\Debug\WindowsFormsApp_timer.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WindowsFormsApp_timer\obj\Debug\WindowsFormsApp_timer.exe
+C:\Alla\C#_proj\WindowsFormsApp_timer\obj\Debug\WindowsFormsApp_timer.pdb
+C:\Alla\C#_proj\WindowsFormsApp_timer\bin\Debug\AxInterop.WMPLib.dll
+C:\Alla\C#_proj\WindowsFormsApp_timer\obj\Debug\WindowsFormsApp_timer.csproj.CopyComplete
